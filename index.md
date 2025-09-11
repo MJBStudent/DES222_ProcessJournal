@@ -1,5 +1,14 @@
-# First Entry
-Brainstorm my first project
+# Name: Matthew Bissell
+# Student Number: 
+# Group:
+
+
+# ENTRY 1 · 06-08-2025 
+
+## Subheader
+Ideation and brainstorming on the task brief for potential responsive and contextual devices or wearables. Fast and loose ideation led to looking mostly at augmented reality and how GLTF data could be used with webXR to show 'unseen' data.
+
+![alt text](./images/md_entry1_img_a.png)
 
 
 # Second Entry
