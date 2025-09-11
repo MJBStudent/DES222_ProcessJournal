@@ -9,9 +9,28 @@
 Ideation and brainstorming on the task brief for potential responsive and contextual devices or wearables. Fast and loose ideation led to looking mostly at augmented reality and how GLTF data could be used with webXR to show 'unseen' data.
 
 ![alt text](./images/md_entry1_img_a.png)
+Reference: Seed #1 year 2000. Kevin TODD Inkjet print on vinyl. Potraying a very mathmatical representation of a tree, early idea around a 'living object' that isn't real, reacting to unseen data that the user 'would' feel.
+
+## Early concept - 
+
+Virtual Canary
+
+- WebXR concept: morphing a 3D canary model based on air quality data pulled from a rest API (a nod to “canary in a coal mine”). 
+- GLTF pipeline: Could geometry respond to phone tilt or ambient sensors? 
+- Outputs: Visual overlays first; audio as a possible extension. 
+- Scalability: Solo = minimal viable pipeline; group = richer sensor inputs and multi-user features. 
+
+![alt text](./images/md_entry1_img_a.png)
+
+# ENTRY 2 · 18-08-2025
+
+## Inspiration
+![alt text](./images/md_entry2_img_a.png)
+### Polli, A. (n.d.). Particle Falls. Andrea Polli. https://www.andreapolli.com 
+
+I came across Andrea Polli’s Particle Falls, a live particle projection driven by air-quality data. Watching how she visualised PM2.5 values into shifting visuals made me wonder if TouchDesigner could power a users own video feed on mobile, while having a contextually unique visualisation to said user(s)
 
 
-# Second Entry
 ![alt text](./images/weirdRender.jpg)
 Weird little guy
 
